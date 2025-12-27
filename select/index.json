@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "1135",
+  "base_artist": "さくらみこ",
+  "createdAt": "2025-12-27T01:54:43.614040Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "1135 (feat. Mr. Lif) – ketamine U.S.A. interlude –",
+      "artist": "Aesop Rock",
+      "has_synced": false,
+      "path": "select/01_1135_(feat._Mr._Lif)_–_ketamine_U.S.A._interlude_–_Aesop_Rock.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "If You Only Knew (ASOT 1135) [Progressive Pick]",
+      "artist": "Hel:Sløwed",
+      "has_synced": true,
+      "path": "select/02_If_You_Only_Knew_(ASOT_1135)_[Progressive_Pick]_Hel_Sløwed.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "1135",
+      "artist": "さくらみこ",
+      "has_synced": false,
+      "path": "select/03_1135_さくらみこ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "1135. Nina Simone - My Baby Just Cares For Me",
+      "artist": "VA",
+      "has_synced": true,
+      "path": "select/04_1135._Nina_Simone_-_My_Baby_Just_Cares_For_Me_VA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "1135",
+      "artist": "さくらみこ",
+      "has_synced": false,
+      "path": "select/pl_01_1135_さくらみこ.txt"
+    }
+  ]
+}
